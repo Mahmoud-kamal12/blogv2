@@ -1,0 +1,10 @@
+.show-more {
+  position: relative;
+  bottom: 0px;
+  right: -3px;
+  margin: auto;
+  margin-top: 13px;
+  font-size: 10px;
+  /*height: 45px;*/
+}
+
